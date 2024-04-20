@@ -1,0 +1,33 @@
+.zagolovok{
+   display: flex;
+   justify-content: center;
+   background-color: red;
+}
+.zzz{
+    margin: 20px;
+}
+
+*{     /*Чтобы обнулить все отступы */
+    margin: 0;
+    padding: 0;
+}
+
+.myPic{
+   position: absolute;
+   top: 55px;
+   right: 50px;
+}
+.card1{
+    width: 200px;
+    background-color: brown;
+}
+
+
+
+
+
+
+
+
+
+
